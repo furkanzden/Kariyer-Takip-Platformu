@@ -17,9 +17,9 @@
   <img src="https://github.com/furkanzden/Kariyer-Takip-Platformu/assets/69054278/f0079306-e85d-4956-8cbd-169e2ef9b749" width="728" />
   <img src="https://github.com/furkanzden/Kariyer-Takip-Platformu/assets/69054278/29a13420-cbce-49db-86a3-5859880bba1a" width="728" />
 </div>
-
-
-
+<p><strong>Mesaj Sayfası</strong></p>
+<img src="https://github.com/furkanzden/Kariyer-Takip-Platformu/assets/69054278/38758d1e-3774-4ff3-b9e6-dc832f4885ee" width="728" />
+<p></p>
 
 
 <h2>Özet</h2>
