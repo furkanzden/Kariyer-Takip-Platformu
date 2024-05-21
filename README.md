@@ -21,6 +21,7 @@
 <img src="https://github.com/furkanzden/Kariyer-Takip-Platformu/assets/69054278/38758d1e-3774-4ff3-b9e6-dc832f4885ee" width="728" />
 <p></p>
 
+[movie.mp4](https://github-production-user-asset-6210df.s3.amazonaws.com/69054278/332568836-ab23c4cb-5084-481e-b741-04d69eb48b44.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240521%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240521T201510Z&X-Amz-Expires=300&X-Amz-Signature=c35ea957ab27c330969d671fbc7347bb3fd4ce587d76ccdc63ace2305e4bc1cd&X-Amz-SignedHeaders=host&actor_id=69054278&key_id=0&repo_id=791984184)
 
 <h2>Özet</h2>
 <p>
